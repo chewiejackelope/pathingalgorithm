@@ -30,9 +30,12 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # Visual Studio
 .vs/*
 
 # CMake
 out/*
+=======
+>>>>>>> 38e3b34 (Initial commit)
