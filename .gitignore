@@ -31,6 +31,7 @@
 *.out
 *.app
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Visual Studio
 .vs/*
@@ -39,3 +40,5 @@
 out/*
 =======
 >>>>>>> 38e3b34 (Initial commit)
+=======
+>>>>>>> 38e3b341d51ae9738d2d8df2c293ba1c6dc3f28d
